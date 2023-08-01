@@ -1,0 +1,35 @@
+.footer {
+  background-color: rgb(3, 30, 31);
+  height: 150px;
+  padding: 30px;
+  text-align: center;
+}
+
+.footer p {
+  color:white;
+  margin-bottom: 25px;
+}
+
+.footer-social-icons {
+  margin-top: 30px;
+}
+
+.footer-social-icons ul {
+  padding-inline-start: 0px;
+}
+
+.footer-social-icons li {
+  display: inline-block;
+  list-style: none;
+  padding-right: 10px;
+}
+
+.footer-social-icons a {
+  color: rgb(45, 200, 45);
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.footer-social-icons a:hover {
+  color: rgb(135, 252, 135);
+}
